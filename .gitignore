@@ -1,0 +1,8 @@
+# Xcode
+.DS_Store
+*.swp
+*.lock
+*.app
+.build/
+.swiftpm/
+Package.resolved
